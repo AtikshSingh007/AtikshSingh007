@@ -98,7 +98,7 @@ My deep interest in **Competitive Programming** drives me to continuously sharpe
 | Platform | Handle | Rating / Rank | Details |
 |:---|:---:|:---:|:---|
 | **Codeforces** | [AtikshSingh007](https://codeforces.com/profile/AtikshSingh007) | **1245** | Pupil — consistent contest participant |
-| **LeetCode** | [AtikshSingh_007](https://leetcode.com/u/AtikshSingh_007/) | **1746** | Knight — 600+ problems solved |
+| **LeetCode** | [AtikshSingh_007](https://leetcode.com/u/AtikshSingh_007/) | **1746** | 600+ problems solved |
 | **CodeChef** | [atikshsingh007](https://www.codechef.com/users/atikshsingh007) | **1606** | 3★ rated coder |
 | **CSES** | AtikshSingh007 | Active | CSES Problem Set — classic CP curriculum |
 | **GeeksForGeeks** | AtikshSingh007 | Active | DSA practice and contest participation |
@@ -218,7 +218,7 @@ DSVisualizer was born out of the frustration of learning Dynamic Programming wit
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1746_Rating_(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AtikshSingh_007/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1746_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AtikshSingh_007/)
 &nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-1245_Rating_(Pupil)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AtikshSingh007)
 &nbsp;

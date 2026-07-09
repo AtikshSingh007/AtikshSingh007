@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Competitive+Programmer+%7C+Web+Developer;Full+Stack+Engineer+%7C+Robotics+Enthusiast;Building+Real+Products+%7C+Solving+Hard+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Competitive+Programmer+%7C+Web+Developer;Full+Stack+Engineer+%7C+Problem+Solver;Building+Real+Products+%7C+Solving+Hard+Problems)](https://git.io/typing-svg)
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer_Science_%26_Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
+![B.Tech MT](https://img.shields.io/badge/B.Tech-Materials_Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
 &nbsp;
 ![MNNIT](https://img.shields.io/badge/MNNIT_Allahabad-2024--2028-6D28D9?style=flat-square&logo=academia&logoColor=white)
 &nbsp;
@@ -42,18 +42,18 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=AtikshSingh007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github" />
 
-I am a **B.Tech CSE student at MNNIT Allahabad** with a strong foundation in **competitive programming**, **full-stack web development**, and **robotics systems**. I approach every problem with a first-principles mindset — whether it's optimizing a DP solution on Codeforces or architecting a scalable backend for a real-world marketplace.
+I am a **B.Tech Materials Engineering student at MNNIT Allahabad** with a strong foundation in **competitive programming** and **full-stack web development**. I approach every problem with a first-principles mindset — whether it's optimizing a DP solution on Codeforces or architecting a scalable backend for a real-world marketplace.
 
 With **1000+ problems solved** across Codeforces, LeetCode, CodeChef, GFG, and CSES, and hands-on experience shipping production-ready full-stack applications, I operate at the intersection of algorithmic thinking and pragmatic engineering.
 
-My interest in **ROS (Robot Operating System)** and embedded systems adds a hardware-software integration dimension that sets my engineering profile apart.
+My deep interest in **Competitive Programming** drives me to continuously sharpen problem-solving skills — from graph theory and dynamic programming to advanced data structures and number theory.
 
 <br/>
 
 **Core Disciplines:**
 - 🔷 Competitive Programming — Codeforces, LeetCode, CodeChef, CSES
 - 🔷 Full Stack Web Development — React, Node.js, Express, MongoDB
-- 🔷 Robotics — ROS 2, rclpy, rclcpp, Arduino
+- 🔷 Competitive Programming — Dynamic Programming, Graphs, Trees, Number Theory
 - 🔷 Systems & DSA — OOP, Operating Systems, Data Structures & Algorithms
 - 🔷 Backend Engineering — REST APIs, JWT Auth, RBAC, Geospatial Indexing
 
@@ -83,7 +83,7 @@ My interest in **ROS (Robot Operating System)** and embedded systems adds a hard
 
 ### Developer Tools & Platforms
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,arduino,linux&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -170,7 +170,7 @@ DSVisualizer was born out of the frustration of learning Dynamic Programming wit
 
 ## ◈ Education
 
-**Bachelor of Technology — Computer Science & Engineering** &nbsp;·&nbsp; **MNNIT Allahabad**
+**Bachelor of Technology — Materials Engineering** &nbsp;·&nbsp; **MNNIT Allahabad**
 `2024 – 2028` &nbsp;·&nbsp; `Prayagraj, India` &nbsp;·&nbsp; `CGPA: 7.7 (till 4th Semester)`
 
 - Core Coursework: Data Structures & Algorithms · Object-Oriented Programming · Operating Systems
@@ -295,7 +295,7 @@ current_focus:
   learning:
     - Advanced graph algorithms — network flows, convex hull trick, segment trees with lazy propagation
     - System design fundamentals — scalability, load balancing, distributed databases
-    - ROS 2 — multi-robot coordination, SLAM, autonomous navigation stacks
+    - Competitive programming — ICPC preparation, Codeforces Div. 2 & Div. 1 problems
     - Backend architecture patterns — microservices, event-driven design, API gateway
 
   building:

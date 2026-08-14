@@ -173,7 +173,7 @@ DSVisualizer was born out of the frustration of learning Dynamic Programming wit
 **Bachelor of Technology — Materials Engineering** &nbsp;·&nbsp; **MNNIT Allahabad**
 `2024 – 2028` &nbsp;·&nbsp; `Prayagraj, India` &nbsp;·&nbsp; `CGPA: 7.7 (till 4th Semester)`
 
-- Core Coursework: Data Structures & Algorithms · Object-Oriented Programming · Operating Systems
+- Coursework: Data Structures & Algorithms · Object-Oriented Programming · Operating Systems
 - Active member of the competitive programming culture at MNNIT
 - Participant in inter-college and national CP contests throughout freshman and sophomore year
 
@@ -187,7 +187,7 @@ DSVisualizer was born out of the frustration of learning Dynamic Programming wit
 **Class XII — ICSE** &nbsp;·&nbsp; **City Montessori School, Lucknow**
 `Score: 93.5%`
 
-**Class X — CBSE** &nbsp;·&nbsp; **City Montessori School, Lucknow**
+**Class X — ICSE** &nbsp;·&nbsp; **City Montessori School, Lucknow**
 `Score: 94%`
 
 <br/>
